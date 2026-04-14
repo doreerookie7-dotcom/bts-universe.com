@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(135deg, #12001a, #2b0a3d, #000000);
+  color: white;
+  text-align: center;
+}
+
+nav {
+  background-color: rgba(255, 255, 255, 0.08);
+  padding: 15px;
+}
+
+nav a {
+  color: #d6a4ff;
+  margin: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.container {
+  padding: 30px;
+}
+
+h2 {
+  color: #d6a4ff;
+  margin-top: 25px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 6px;
+  font-size: 17px;
+}
+
+.quote {
+  font-style: italic;
+  color: #d6a4ff;
+  margin-bottom: 20px;
+}
